@@ -7,3 +7,4 @@ function destructivelyAppendKitten(Ralph) {
   return kittens
 }
 
+function destructivelyPrependKitten
