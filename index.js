@@ -7,4 +7,3 @@ function destructivelyAppendKitten(array) {
   return array
 }
 
-function 
