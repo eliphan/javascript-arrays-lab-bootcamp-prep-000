@@ -8,8 +8,8 @@ function destructivelyAppendKitten(Ralph) {
 }
 
 function destructivelyPrependKitten(Bob) {
-  kittens.unshift(Bob)
-  return kittens
+  return kittens.unshift(Bob)
+ 
 }
 
 function destructivelyRemoveLastKitten() {
